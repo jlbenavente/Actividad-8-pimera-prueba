@@ -148,7 +148,7 @@
 <div class="footer">
   <div class="row">
     <div class="col-xs-12 col-sm-10 col-md-3 col-lg-3">
-      <li><img class="img-responsive" style="padding: 90px 60px 60px 60px;" src="images/logo.jpg" alt=" logo fundación"></li>
+      <li><img class="img-responsive" style="padding: 170px 150px 150px 150px;" src="images/logo.jpg" alt=" logo fundación"></li>
     </div>
     <div class="col-xs-12 col-sm-10 col-md-2 col-lg-2">
       <ul class="lifooter">
